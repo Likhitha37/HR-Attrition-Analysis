@@ -109,6 +109,3 @@ Average tenure among leavers: **5.13 years** — attrition skews heavily toward 
 
 - [`HR_Attrition_Dashboard.pbix`](./HR_Attrition_Dashboard.pbix) — open in Power BI Desktop to explore the full interactive report
 
-## 🔗 Live Report
-
-[Add your published Fabric/Power BI report link here]
